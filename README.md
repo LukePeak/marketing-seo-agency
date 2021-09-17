@@ -4,11 +4,15 @@ Refactoring an existing marketing agency website to use semantic HTML elements
 
 ## Github Pages
 
-Add the link to Github pages here. See markdown cheat sheet on how to add links.
+(https://lukepeak.github.io/marketing-seo-agency/)
 
 ## What did you do?
 
-Add high level points here
+Changed the title making it more descriptive and concise
+Added Semantic elements
+Changed the elements so that they follow a logical structure
+Added accessible alt attributes
+Ensured that the heading attributes fall in sequential order
 
 ## Technologies used
 
@@ -17,4 +21,6 @@ Css
 
 ## Screenshots
 
-Add screenshots here. See markdown cheat sheet on how to add images.
+(https://i.imgur.com/632Wpsn.png)
+
+Refactored Horiseon Marketing agency website
